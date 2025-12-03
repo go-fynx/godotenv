@@ -1,4 +1,4 @@
-module envconfig
+module godotenv
 
 go 1.25.4
 
